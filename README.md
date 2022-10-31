@@ -11,9 +11,7 @@
   </p>
 </p>
 
-remote-control is a bash script that create an anonymous environment, (using a VPN) that conduct scans on a target IP address and can access your logs securely via ssh, telnet, ftp using:
-
-nipe, nmap, whois and curl.
+vulner is a bash script that 
 
 ### Possibility and Capability
 
@@ -23,20 +21,20 @@ nipe, nmap, whois and curl.
 
 - the required dependencies and libraries will be scanned and any missing packages will be installed automatically.
 
-- easy to use since explanations are written. ([sudo] bash  / ./remote-control -I)
+- easy to use since explanations are written. ([sudo] bash  / ./vulner -I)
 
-- if you need help for the script usage, type [sudo] bash  / ./remote-control -h, for more details about the options.
+- if you need help for the script usage, type [sudo] bash  / ./vulner -h, for more details about the options.
 
 - help and info menu doesn't require sudo privileges.
 
 > DISADVANTAGES:
 
-- nipe could fail, restart manually or restart the computer connection.
+- none.
 
 
-### 'remote-control' Project
+### 'vulner' Project
 
-a [project](https://github.com/gh0st-anonymous/remote-control/files/9871434/project.pdf) made by [ThinkCyber.](https://www.thinkcyber.co.il/)
+a [project]([project.pdf](https://github.com/gh0st-anonymous/vulner/files/9901643/project.pdf) made by [ThinkCyber.](https://www.thinkcyber.co.il/)
 
 
 ### Video Demonstration
