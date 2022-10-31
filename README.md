@@ -19,7 +19,9 @@ nmap, masscan, hydra, searchsploit and msfconsole.
 
 > ADVANTAGES:
 
-- save the user general scanning statistics.
+- will save the user general scans in a statistics file.
+
+- check if the new supposed output file or directory is already created. (instead of :: error cant write on 'file.txt' because 'file.txt' already exist :: you'll get file.2.txt or dir.2 then .3, .4, ect...)
 
 - check for every errors possible. (correct answers as input, if the VPN is truly active or if he failed)
 
