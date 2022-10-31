@@ -11,11 +11,15 @@
   </p>
 </p>
 
-vulner is a bash script that 
+vulner is a bash script that maps network devices for ports, services and will look for vulnerabilities to exploit using:
+
+nmap, masscan, hydra, searchsploit and msfconsole.
 
 ### Possibility and Capability
 
 > ADVANTAGES:
+
+- save the user general scanning statistics.
 
 - check for every errors possible. (correct answers as input, if the VPN is truly active or if he failed)
 
