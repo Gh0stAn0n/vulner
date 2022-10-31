@@ -34,7 +34,7 @@ vulner is a bash script that
 
 ### 'vulner' Project
 
-a [project]([project.pdf](https://github.com/gh0st-anonymous/vulner/files/9901643/project.pdf) made by [ThinkCyber.](https://www.thinkcyber.co.il/)
+a [project](https://github.com/gh0st-anonymous/vulner/files/9901643/project.pdf) made by [ThinkCyber.](https://www.thinkcyber.co.il/)
 
 
 ### Video Demonstration
