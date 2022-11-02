@@ -27,9 +27,9 @@ vulner is a bash script that maps network devices for ports, services and will l
 
 - the required dependencies and libraries will be scanned and any missing packages will be installed automatically.
 
-- use -i for info, for the script resume, type [sudo] bash  / ./vulner -i
+- use -i for info for the script resume, type [sudo] bash  / ./vulner -i
 
-- use -h for help, for the script usage, type [sudo] bash  / ./vulner -h
+- use -h for help for the script usage, type [sudo] bash  / ./vulner -h
 
 - help and info menu doesn't require sudo privileges.
 
