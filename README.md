@@ -11,9 +11,9 @@
   </p>
 </p>
 
-vulner is a bash script that maps network devices for ports, services and will look for vulnerabilities to exploit using:
+vulner is a bash script that maps network devices for ports, services and will look after vulnerabilities to exploit using:
 
-nmap, masscan, hydra, searchsploit and msfconsole.
+[nmap](https://www.kali.org/tools/nmap/), [masscan](https://www.kali.org/tools/masscan/), [hydra](https://www.kali.org/tools/hydra/), [searchsploit](https://www.kali.org/tools/exploitdb/) and [msfconsole](https://www.kali.org/tools/metasploit-framework/).
 
 ### Possibility and Capability
 
@@ -40,7 +40,7 @@ nmap, masscan, hydra, searchsploit and msfconsole.
 
 ### 'vulner' Project
 
-a [project](https://github.com/gh0st-anonymous/vulner/files/9901643/project.pdf) made by [ThinkCyber.](https://www.thinkcyber.co.il/)
+a [project](https://github.com/gh0st-anonymous/vulner/files/9901643/project.pdf) made by [ThinkCyber](https://www.thinkcyber.co.il/).
 
 
 ### Video Demonstration
